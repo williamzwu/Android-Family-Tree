@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Family</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">执行</string>
+    <string name="title_activity_edit_member">Edit Family Members</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="header_name">姓名</string>
+    <string name="header_select">选择</string>
+    <string name="header_sex">性别</string>
+    <string name="nofile">No file loaded</string>
+    <string name="fileFoundMsg">家谱如下</string>
+    <string name="fileNotFoundMsg">没找到, 样本红楼梦家谱如下</string>
+    <string name="button_import">导入</string>
+</resources>

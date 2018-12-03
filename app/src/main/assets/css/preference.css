@@ -1,0 +1,9 @@
+text.male { font-size: 12px; fill: blue; stroke-width: 1; text-anchor: middle; }
+text.female { font-size: 12px; fill: green; stroke-width: 1; text-anchor: middle; }
+text.malex { font-size: 12px; fill:blue; stroke: none; text-decoration: underline; text-anchor: middle; }
+text.femalex { font-size: 12px; fill: green; stroke: none; text-decoration: underline; text-anchor: middle; }
+text.person { font-size: 12px; fill: gray; stroke-width: 1; text-anchor: middle; }
+text.father { font-size: 12px; fill: red; stroke-width: 1; text-anchor: middle; }
+text.mother { font-size: 12px; fill: gold; stroke-width: 1; text-anchor: middle; }
+text.son { font-size: 12px; fill: lightblue; stroke-width: 1; text-anchor: middle; }
+text.daughter { font-size: 12px; fill: lightgold; stroke-width: 1; text-anchor: middle; }

@@ -1,0 +1,25 @@
+/* http://www.w3schools.com/html/html_colornames.asp */
+.vertex { r:2; fill:black; }
+.center { r:5; fill:red; stroke:red; }
+.startpoint { r:1; fill:blue; }
+.vertexlabel { font-size: 10px; fill: red; stroke-width: 1; text-anchor: middle; }
+.vertexarc1 { fill:none; stroke:lightgreen; stroke-width: 3; opacity: 0.7 }
+.edgearc1 { fill:none; stroke:lightgreen; opacity: 0.7 }
+.vertexarc2 { fill:none; stroke:lightblue; stroke-width: 3; opacity: 0.7 }
+.edgearc2 { fill:none; stroke:lightblue; opacity: 0.7 }
+.vertexarc3 { fill:none; stroke:yellow; stroke-width: 3; opacity: 0.7 }
+.edgearc3 { fill:none; stroke:yellow; opacity: 0.7 }
+.vertexarc4 { fill:none; stroke:purple; stroke-width: 3; opacity: 0.7 }
+.edgearc4 { fill:none; stroke:purple; opacity: 0.7 }
+.vertexarc5 { fill:none; stroke:blue; stroke-width: 3; opacity: 0.7 }
+.edgearc5 { fill:none; stroke:blue; opacity: 0.7 }
+.vertexarc6 { fill:none; stroke:DarkSlateBlue ; stroke-width: 3; opacity: 0.7 }
+.edgearc6 { fill:none; stroke:DarkSlateBlue ; opacity: 0.7 }
+.vertexarc7 { fill:none; stroke:green; stroke-width: 3; opacity: 0.7 }
+.edgearc7 { fill:none; stroke:green; opacity: 0.7 }
+.vertexarc8 { fill:none; stroke:HotPink ; stroke-width: 3; opacity: 0.7 }
+.edgearc8 { fill:none; stroke:HotPink ; opacity: 0.7 }
+.vertexarc9 { fill:none; stroke:red ; stroke-width: 3; opacity: 0.7 }
+.edgearc9 { fill:none; stroke:red ; opacity: 0.7 }
+.circletest { fill:none; stroke:yellow; }
+.anchor { r:5; fill:white; opacity: 0; stroke:blue; }
